@@ -1,5 +1,8 @@
+![](i1tao.gif)
 ### Hi there 👋
+🌱 I’m currently learning windows driver developing & reverse engineering
 
+📫 How to reach me: Lumosmagicb00m@gmail.com
 <!--
 **i1tao/i1tao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
